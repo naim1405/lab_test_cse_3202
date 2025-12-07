@@ -2,9 +2,4 @@
 
 ### Companion Video:
 - bash: [Youtube](https://youtu.be/9--TDnSLMbw)
-- pthread: 
-
-
-
-
-
+- pthread: [Youtube](https://youtu.be/7KuVnyDgNxw)
